@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "Initial BharatClean AI MVP"
+git branch -M main
+
+git remote add origin https://github.com/gulamsubhanidbest1-source/bharatclean-ai.git
+
+git push -u origin main
